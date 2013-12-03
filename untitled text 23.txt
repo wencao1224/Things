@@ -1,0 +1,179 @@
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01645_bbl1_3stim3_single_rep_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01647_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01650_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01651_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01654_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01655_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01657_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01659_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01660_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01663_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01667_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01669_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01670_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01673_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01674_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01677_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01679_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01681_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01682_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01686_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01687_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01688_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01690_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01692_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01693_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01696_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01698_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01704_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01706_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01707_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01708_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01711_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01712_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01715_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01716_bbl1_3stim3_186_4D.hdr
+/Users/loughead/Desktop/imaging/2quit_3stim_test/smoking/feats/01719_bbl1_3stim3_186_4D.hdr
+
+1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+-1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+
+
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+1	1	0
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
+2	0	1
